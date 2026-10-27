@@ -14,14 +14,7 @@ This project presents the business concept and marketing strategy for Golden Bed
 
 **Instructor:** Youssef Ayman
 
-## 👥 Team Members
 
-- Samar Alaa
-- Hana Ali
-- Mariam Emad
-- David Amgad
-
-**Instructor:** Youssef Ayman
 
 ## 📂 Project Files
 https://drive.google.com/file/d/1Aq8iN9CkFaCOwNmfOdf7pA5GeAGbDnmu/view?usp=drive_link
